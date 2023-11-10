@@ -18,8 +18,7 @@
 }
 
 .header__link,
-.footer__menu-link
-{
+.footer__menu-link {
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -27,8 +26,7 @@
 }
 
 .header__link_active,
-.footer__menu-link_active 
-{
+.footer__menu-link_active {
     text-decoration: none;
 }
 
